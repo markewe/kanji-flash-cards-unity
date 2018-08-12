@@ -1,0 +1,4 @@
+/obj/
+/library/metadata/
+/library/shadercache/
+*.meta
